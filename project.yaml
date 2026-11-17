@@ -24,7 +24,7 @@ repositories:
 
 website: "https://kgateway.dev/"
 
-artwork: "https://landscape.cncf.io/logos/kgateway.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kgateway"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
